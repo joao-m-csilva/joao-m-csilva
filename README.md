@@ -36,7 +36,7 @@
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=Flask)&nbsp;
 
   
-### Studying in this moment:
+### Studying at the moment:
 ![The Algorithms](https://img.shields.io/badge/Algorithms-0D1117?style=for-the-badge&logo=The%20Algorithms)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=Swift)&nbsp;
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
