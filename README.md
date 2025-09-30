@@ -19,8 +19,6 @@
 ![Node.js](https://img.shields.io/badge/NODE.JS-0D1117?style=for-the-badge&logo=Node.JS)&nbsp;
 
 
-
- 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Xcode](https://img.shields.io/badge/Xcode-0D1117?style=for-the-badge&logo=Apple)
@@ -28,7 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
 
-### Database management systems:
+### Database Management Systems:
 ![MySQL](https://img.shields.io/badge/MYSQL-0D1117?style=for-the-badge&logo=MySQL&logoColor=white)
  
 ### Other Knowledge:
