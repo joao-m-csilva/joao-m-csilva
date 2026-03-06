@@ -1,22 +1,10 @@
 # 🧑🏻‍💻 João Marcos Silva
 
-### **`🎓 Software Engineering Student | Fullstack Developer`**
+### **` Software Engineer`**
 
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/jo%C3%A3o-marcos-c-silva/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531995429590)
 [![Email](https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge)](mailto:joao.carvalhosilva@outlook.com)
-
-## :brazil:
-
-> **Olá! Me chamo João Marcos, tenho 26 anos e sou de Minas Gerais.**
->
-> Atualmente, sou estudante de **Engenharia de Software** e estou em transição de carreira, trazendo uma bagagem sólida da Engenharia Elétrica/Automação.
->
-> Nessa minha trajetória anterior, atuei na **condução de projetos**, sendo responsável por ciclos completos de entrega — desde a visita técnica e orçamentação até a execução e entrega final ao cliente.
->
-> Hoje, uno essa visão de processos e responsabilidade ao meu aprendizado acadêmico para criar soluções de software robustas.
-
-## :us:
 
 > **Hello! I'm João Marcos, I am 26 years old and I'm from Minas Gerais, Brazil.**
 >
@@ -32,14 +20,14 @@
 
 ### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-%233F3B37?style=for-the-badge&logo=openjdk&logoColor=%23FF0000)
+![C#](https://img.shields.io/badge/C%23-white?style=for-the-badge&logoColor=purple&color=purple)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧠 Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%233F3B37?style=for-the-badge&logo=spring&logoColor=%236DB33F)
+![.NET](https://img.shields.io/badge/.NET-white?style=for-the-badge&logoColor=purple&color=purple)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
