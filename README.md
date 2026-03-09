@@ -6,13 +6,12 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531995429590)
 [![Email](https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge)](mailto:joao.carvalhosilva@outlook.com)
 
-> **Hello! I'm João Marcos, I am 26 years old and I'm from Minas Gerais, Brazil.**
->
-> Currently, I am a **Software Engineering** student transitioning from a solid background in Electrical Engineering/Automation.
->
-> In my previous path, I focused on **leading projects**, being responsible for complete delivery cycles — from technical site visits and budgeting to execution and final delivery to the client.
->
-> Today, I combine this process-oriented mindset with my academic studies to build robust software solutions.
+ **Hello! I'm João Marcos, I am 26 years old and I'm from Minas Gerais, Brazil.**
+
+ Currently, I am a **Software Engineering** student transitioning from a solid background in Electrical Engineering/Automation.
+
+ In my previous path, I focused on **leading projects**, being responsible for complete delivery cycles — from technical site visits and budgeting to execution and final delivery to the client.
+ Today, I combine this process-oriented mindset with my academic studies to build robust software solutions.
 
 <br>
 
@@ -23,6 +22,7 @@
 ![C#](https://img.shields.io/badge/C%23-white?style=for-the-badge&logoColor=purple&color=purple)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=%23777BB4&logoSize=auto&color=3F3B37)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧠 Backend
@@ -33,7 +33,6 @@
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-%233F3B37?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
