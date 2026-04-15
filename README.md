@@ -17,4 +17,6 @@ My current focus is building robust backend applications using C# and .NET, espe
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### Contact
 
+![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/jo%C3%A3o-marcos-c-silva/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531995429590) [![Email](https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge)](mailto:joao.carvalhosilva@outlook.com)
