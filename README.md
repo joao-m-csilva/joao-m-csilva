@@ -13,7 +13,7 @@ Meu principal foco é o desenvolvimento e consumo de APIs REST, criação de int
 
 ![Git](https://img.shields.io/badge/GIT-393B85?style=for-the-badge&logo=GIT&logoColor=white) ![GitLab](https://img.shields.io/badge/GITLAB-393B85?style=for-the-badge&logo=GITLAB&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%23393B85?style=for-the-badge&logo=Docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23393B85?style=for-the-badge&logo=Postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23393B85?style=for-the-badge&logo=Figma&logoColor=white) ![Dbeaver](https://img.shields.io/badge/DBVEAVER-393B85?style=for-the-badge&logo=DBEAVER&logoColor=white)
 
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-m-csilva&hide=contribs,prs&show_icons=true&theme=radical)
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-m-csilva&hide=contribs,prs&show_icons=true&theme=dark)
 
 ### Vamos conversar?
 
