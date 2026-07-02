@@ -71,11 +71,11 @@ Substitua o texto 55XXXXXXXXX pelo seu número de telefone, com o código de pa�
 
 <!-- GitHub Stats -->
 
-| ![João Marcos Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joao-m-csilva&theme=slateorange) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joao-m-csilva&theme=slateorange) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joao-m-csilva&theme=slateorange) |
-| :---------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
+| ![João Marcos Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joao-m-csilva&theme=onedark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joao-m-csilva&theme=onedark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joao-m-csilva&theme=onedark) |
+| :-----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-m-csilva&theme=slateorange) | ![](https://streak-stats.demolab.com?user=joao-m-csilva&locale=en&mode=daily&theme=slateorange&hide_border=false&border_radius=5&order=3) |
-| :--------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-m-csilva&theme=onedark) | ![](https://streak-stats.demolab.com?user=joao-m-csilva&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3) |
+| :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
 
 ---
 
