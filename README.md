@@ -38,7 +38,7 @@ Software engineering student and backend developer.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,html,css,js,vue" />
+    <img src="https://skillicons.dev/icons?i=nodejs,go,postgresql,mysql,html,css,js,vue,angular" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@ Software engineering student and backend developer.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,postman,idea" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,postman" />
   </a>
 </p>
 </div>
