@@ -20,14 +20,14 @@
 <!-- Nome e Título -->
 <div align="center">
 
-<h3>João Marcos Silva</h3>
+<h2>João Marcos Silva</h2>
 
 </div>
 
 <!-- Sobre mim -->
 <div align="center">
 
-Software engineering student and backend developer.
+<h5>Software Engineering student and Backend Developer.</h5>
 
 ---
 
@@ -38,7 +38,7 @@ Software engineering student and backend developer.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,go,postgresql,mysql,html,css,js,vue,angular" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,js,ts,postgresql,mysql,html,css,vue,angular" />
   </a>
 </p>
 
