@@ -27,7 +27,7 @@
 <!-- Sobre mim -->
 <div align="center">
 
-<h5>Software Engineering student and Backend Developer.</h5>
+<h4>Software Engineer | .NET Backend Developer</h4>
 
 ---
 
@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,js,ts,postgresql,mysql,html,css,vue,angular" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,postgresql,mysql,html,css,vue,angular" />
   </a>
 </p>
 
