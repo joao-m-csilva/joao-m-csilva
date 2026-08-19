@@ -27,7 +27,7 @@
 <!-- Sobre mim -->
 <div align="center">
 
-<h4>Software Engineer | .NET Backend Developer</h4>
+<h4>Software Engineer (undergraduate) | .NET Backend Developer</h4>
 
 ---
 
