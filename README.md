@@ -20,16 +20,11 @@
 <!-- Nome e Título -->
 <div align="center">
 
-<h2>João Marcos Silva</h2>
-
-</div>
-
-<!-- Sobre mim -->
-<div align="center">
-
-<h4>Software Engineer (undergraduate) | .NET Backend Developer</h4>
+### João Marcos Silva | .NET Developer
 
 ---
+
+</div>
 
 <!-- Badges Personalizáveis -->
 <div align="center">
