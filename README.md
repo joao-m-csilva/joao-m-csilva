@@ -26,26 +26,26 @@ Backend developer focused on Java, APIs, databases, and cloud technologies.
 
 ##### Languages
 
-![Static Badge](https://img.shields.io/badge/Java-%232c2f33?style=flat&logo=openjdk&logoColor=orange) ![Static Badge](https://img.shields.io/badge/JavaScript-%20%232c2f33?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Static Badge](https://img.shields.io/badge/TypeScript-%232c2f33?style=flat&logo=typescript&logoColor=%233178C6) ![Static Badge](https://img.shields.io/badge/Python-%232c2f33?style=flat&logo=python&logoColor=%233776AB) ![Static Badge](https://img.shields.io/badge/SQL-%232c2f33?style=flat) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%232c2f34?style=flat&logo=c%2B%2B&logoColor=%2300599C)
+![Static Badge](https://img.shields.io/badge/Java-%232c2f33?style=for-the-badge&logo=openjdk&logoColor=orange) ![Static Badge](https://img.shields.io/badge/JavaScript-%20%232c2f33?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Static Badge](https://img.shields.io/badge/TypeScript-%232c2f33?style=for-the-badge&logo=typescript&logoColor=%233178C6) ![Static Badge](https://img.shields.io/badge/Python-%232c2f33?style=for-the-badge&logo=python&logoColor=%233776AB) ![Static Badge](https://img.shields.io/badge/SQL-%232c2f33?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%232c2f34?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C)
 
 ##### Backend
 
-![Static Badge](https://img.shields.io/badge/Spring-%232c2f33?style=flat&logo=spring&logoColor=%236DB33F) ![Static Badge](https://img.shields.io/badge/Spring_Boot-%232c2f33?style=flat&logo=springboot&logoColor=%236DB33F) ![Static Badge](https://img.shields.io/badge/Node.js-%232c2f33?style=flat&logo=node.js&logoColor=%235FA04E) ![Static Badge](https://img.shields.io/badge/NestJS-%232c2f33?style=flat&logo=nestjs&logoColor=%23E0234E) ![Static Badge](https://img.shields.io/badge/Django_REST_Framework-%232c2f34?style=flat&logo=django&logoColor=%235FA04E&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Spring-%232c2f33?style=for-the-badge&logo=spring&logoColor=%236DB33F) ![Static Badge](https://img.shields.io/badge/Spring_Boot-%232c2f33?style=for-the-badge&logo=springboot&logoColor=%236DB33F) ![Static Badge](https://img.shields.io/badge/Node.js-%232c2f33?style=for-the-badge&logo=node.js&logoColor=%235FA04E) ![Static Badge](https://img.shields.io/badge/NestJS-%232c2f33?style=for-the-badge&logo=nestjs&logoColor=%23E0234E) ![Static Badge](https://img.shields.io/badge/Django_REST_Framework-%232c2f34?style=for-the-badge&logo=django&logoColor=%235FA04E&logoSize=auto)
 
 ##### Frontend
 
-![Static Badge](https://img.shields.io/badge/HTML-%232c2f33?style=flat&logo=html5&logoColor=%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-%232c2f34?style=flat&logo=css&logoColor=%23663399) ![Static Badge](https://img.shields.io/badge/Vue.js-%232c2f34?style=flat&logo=vue.js&logoColor=%234FC08D)
+![Static Badge](https://img.shields.io/badge/HTML-%232c2f33?style=for-the-badge&logo=html5&logoColor=%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-%232c2f34?style=for-the-badge&logo=css&logoColor=%23663399) ![Static Badge](https://img.shields.io/badge/Vue.js-%232c2f34?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
 ##### Database
 
-![Static Badge](https://img.shields.io/badge/Postegresql-%232c2f34?style=flat&logo=postgresql&logoColor=%234169E1) ![Static Badge](https://img.shields.io/badge/MYSQL-%232c2f34?style=flat&logo=mysql&logoColor=%234479A1&logoSize=auto) ![Static Badge](https://img.shields.io/badge/DynamoDB-%232c2f34?style=flat&logoColor=%234479A1&logoSize=auto) ![Static Badge](https://img.shields.io/badge/MongoDB-%232c2f34?style=flat&logo=mongodb&logoColor=%2347A248&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Postegresql-%232c2f34?style=for-the-badge&logo=postgresql&logoColor=%234169E1) ![Static Badge](https://img.shields.io/badge/MYSQL-%232c2f34?style=for-the-badge&logo=mysql&logoColor=%234479A1&logoSize=auto) ![Static Badge](https://img.shields.io/badge/DynamoDB-%232c2f34?style=for-the-badge&logoColor=%234479A1&logoSize=auto) ![Static Badge](https://img.shields.io/badge/MongoDB-%232c2f34?style=for-the-badge&logo=mongodb&logoColor=%2347A248&logoSize=auto)
 
 ##### Cloud and DevOps
 
-![Static Badge](https://img.shields.io/badge/AWS-%232c2f34?style=flat&logoSize=auto) ![Static Badge](https://img.shields.io/badge/GitLab_CI%2FCD-%232c2f34?style=flat&logo=gitlab&logoColor=%23FC6D26&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Docker-%232c2f34?style=flat&logo=docker&logoColor=%232496ED)
+![Static Badge](https://img.shields.io/badge/AWS-%232c2f34?style=for-the-badge&logoSize=auto) ![Static Badge](https://img.shields.io/badge/GitLab_CI%2FCD-%232c2f34?style=for-the-badge&logo=gitlab&logoColor=%23FC6D26&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Docker-%232c2f34?style=for-the-badge&logo=docker&logoColor=%232496ED)
 
 <div align="center">
 
 ##### You can find me here:
 
-[![E-mail](https://img.shields.io/badge/E--mail-%232c2f34?style=plastic&logo=gmail&logoColor=%23EA4335)](mailto:joao.carvalhosilva@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-marcos-c-silva/)
+[![E-mail](https://img.shields.io/badge/E--mail-%232c2f34?style=for-the-badge&logo=gmail&logoColor=%23EA4335)](mailto:joao.carvalhosilva@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-marcos-c-silva/)
