@@ -17,7 +17,7 @@
 
 # João Marcos Silva | Backend Developer
 
-Backend developer focused on Java, APIs, databases, and cloud technologies.
+Currently focused on Java and backend development, with knowledge of APIs, databases, and cloud technologies, as well as basic knowledge of HTML, CSS, and Vue.js.
 
 </div>
 
